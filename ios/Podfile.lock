@@ -1,0 +1,23 @@
+PODS:
+  - AnyCodable-FlightSchool (0.2.3)
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - AnyCodable-FlightSchool (~> 0.2.3)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - AnyCodable-FlightSchool
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  AnyCodable-FlightSchool: cf53737f4bd1d9187cea453679734506e478fff3
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: 1e3787fd517f4993a1e11522ab733481de9033b7
+
+COCOAPODS: 1.9.3
